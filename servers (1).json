@@ -1,0 +1,12 @@
+{
+  "Servidores": [
+    { "Nome": "Brasil Oficial #1", "Region": "sa", "Ip": "", "VersaoRequerida": "1.0.0" },
+    { "Nome": "USA East Competitive", "Region": "us", "Ip": "", "VersaoRequerida": "1.0.0" }
+  ],
+  "ConfiguracaoJogo": {
+    "Nome": "Release Multiplayer Test",
+    "NumeroVersao": "MP 1",
+    "UrlDownload": "https://github.com/Dallas1100/EXCRAFT/releases/download/v1.0.0/terror.rar",
+    "UrlManifesto": ""
+  }
+}
