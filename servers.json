@@ -1,0 +1,27 @@
+{
+  "LauncherInfo": {
+    "NumeroVersao": "2.0",
+    "UrlDownload": "LINK_NOVO_LAUNCHER_AQUI",
+    "PatchNotes": "- Novo visual cinematográfico."
+  },
+  "ExcraftInfo": {
+    "Nome": "EXCRAFT",
+    "NumeroVersao": "MP 7",
+    "UrlDownload": "https://github.com/Dallas1100/EXCRAFT/releases/download/EXCRAFTmp6/Multiplayer.test.6.rar",
+    "PatchNotes": "Nova mecânica de mercado.",
+    "Status": "ALPHA FECHADO",
+    "TamanhoGB": "12.5 GB",
+    "Requisitos": "SO: Windows 10/11\nCPU: Quad-Core 3.0 GHz\nRAM: 8 GB\nGPU: GTX 1060",
+    "UrlTrailer": "LINK_YOUTUBE_AQUI"
+  },
+  "ExtorqueInfo": {
+    "Nome": "EXTORQUE",
+    "NumeroVersao": "1.0",
+    "UrlDownload": "LINK_RAR_EXTORQUE",
+    "PatchNotes": "Física de suspensão realista.",
+    "Status": "ACESSO RESTRITO",
+    "TamanhoGB": "45.0 GB",
+    "Requisitos": "SO: Windows 10/11\nCPU: Hexa-Core 3.5 GHz\nRAM: 16 GB\nGPU: RTX 2060",
+    "UrlTrailer": "LINK_YOUTUBE_AQUI"
+  }
+}
